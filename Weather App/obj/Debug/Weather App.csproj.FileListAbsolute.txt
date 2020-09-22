@@ -1,0 +1,55 @@
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Weather App.exe.config
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Weather App.exe
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Weather App.pdb
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather_App.WeatherApp.resources
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.exe
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.pdb
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather_App.btn.resources
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\EntityFramework.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\GMap.NET.Core.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\System.Data.SQLite.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\EntityFramework.xml
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\System.Data.SQLite.xml
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather_App.MapControl.resources
+C:\Users\gagni_j1hmy01\source\repos\Weather App\Weather App\obj\Debug\Weather App.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\Weather App.exe.config
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\Weather App.exe
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\Weather App.pdb
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\EntityFramework.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\GMap.NET.Core.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\System.Data.SQLite.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\EntityFramework.xml
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\System.Data.SQLite.xml
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather_App.btn.resources
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather_App.WeatherApp.resources
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather_App.MapControl.resources
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather App.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather App.exe
+C:\Users\gagni_j1hmy01\Desktop\Weather App\Weather App\obj\Debug\Weather App.pdb
